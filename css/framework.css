@@ -1,0 +1,58 @@
+.d-flex-align-c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d-flex-betw-c {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.d-flex-start-c {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.p-top-bottom-15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.br-radius {
+    border-radius: 10px;
+}
+
+.br-radius-half {
+    border-radius: 50%;
+}
+
+.screen-bg-color {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.card-bg-color {
+    background-color: hsl(216, 50%, 16%);
+}
+
+.white-color {
+    color: white;
+}
+
+.font-s-20 {
+    font-size: 20px;
+}
+
+.font-s-18 {
+    font-size: 18px;
+}
+
+.font-s-14 {
+    font-size: 14px;
+}
